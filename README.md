@@ -1,16 +1,23 @@
-## Hi there 👋
+ 👋 Hello, my name is Juan Souza, I'm 18 years old, I'm studying software engineering at PUC Campinas.
+ 
+ 🙋‍♂️About me, I have been studying programming since 2022 at a technical school here in my city, I am passionate about physical activities 
+ 
+ 🌐 I have intermediate English 
+ 
+ 🌐I have intermediate Spanish
 
-<!--
-**JuanSouza18/JuanSouza18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+☎️ contact me via email : souzajuan18@icloud.com
+
+⚠️Stay tuned for future projects
