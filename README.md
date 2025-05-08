@@ -2,9 +2,9 @@
  
  🙋‍♂️About me, I have been studying programming since 2022 at a technical school here in my city, I am passionate about physical activities 
  
- 🌐 I  speak intermediate English 
+ 🌐 I manage intermediate English 
  
- 🌐I speak intermediate Spanish
+ 🌐I manage intermediate Spanish
 
 
 
