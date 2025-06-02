@@ -30,9 +30,9 @@ Olá! Me chamo Juan, sou estudante de Engenharia de Software na PUC Campinas e a
 </div>
 
  🔗 Onde me encontrar:
-- ✉️ Email: souzajuan18@icloud.com
-- 💼 LinkedIn: (Logo eu crio )
-- 📸 Instagram: 
+- ✉️ Email: souzajuan18@icloud.com & juan.18souza@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-desiderio-de-souza-4b5641369/
+- 📸 Instagram: https://www.instagram.com/juan.souza7_?igsh=MW93NW9zbWkwYmRocQ%3D%3D&utm_source=qr
 
 
 
