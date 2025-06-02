@@ -1,4 +1,4 @@
-## ✨ Sobre mim
+ ✨ Sobre mim
 Olá! Me chamo Juan, sou estudante de Engenharia de Software na PUC Campinas e apaixonado por tecnologia, desenvolvimento e inovação. Atualmente, estou focado em aprender mais sobre desenvolvimento web, backend e automações. Sempre buscando evoluir, criar projetos e compartilhar conhecimento.
 
 🚀 Em constante aprendizado em:
@@ -9,7 +9,7 @@ Olá! Me chamo Juan, sou estudante de Engenharia de Software na PUC Campinas e a
 
 📚 Apaixonado por resolver problemas e transformar ideias em soluções.
 
-## 🚀 Tecnologias e Ferramentas
+ 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -21,7 +21,7 @@ Olá! Me chamo Juan, sou estudante de Engenharia de Software na PUC Campinas e a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </div>
 
-## 🔗 Onde me encontrar:
-- ✉️ Email: seuemail@gmail.com
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seunome/)
-- 📺 YouTube: [Seu Canal](https://www.youtube.com/@seucanal)
+ 🔗 Onde me encontrar:
+- ✉️ Email: souzajuan18@icloud.com
+- 💼 LinkedIn: (Ainda não tenho)
+
