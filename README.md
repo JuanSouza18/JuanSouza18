@@ -1,4 +1,5 @@
  ✨ Sobre mim
+ <br>
 Olá! Me chamo Juan, sou estudante de Engenharia de Software na PUC Campinas e apaixonado por tecnologia, desenvolvimento e inovação. Atualmente, estou focado em aprender mais sobre desenvolvimento web, backend e automações. Sempre buscando evoluir, criar projetos e compartilhar conhecimento.
 
 💡 Hobbies:
