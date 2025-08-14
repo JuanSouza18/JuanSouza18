@@ -38,11 +38,6 @@
 - DevOps Practices
 - Microsserviços
 
-## 🏆 Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=juan-souza-dev&show_icons=true&theme=dracula)
-
-
 ## 🎮 Hobbies & Interesses
 
 - 🌳 Atividades ao ar livre
