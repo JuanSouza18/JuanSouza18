@@ -38,18 +38,10 @@
 - DevOps Practices
 - Microsserviços
 
-## 🎯 Metas para 2024
-
-- [ ] Contribuir para projetos open-source
-- [ ] Dominar arquiteturas escaláveis
-- [ ] Certificação em Cloud
-- [ ] Desenvolver um projeto full-stack completo
-
 ## 🏆 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=juan-souza-dev&show_icons=true&theme=dracula)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
 
 ## 🎮 Hobbies & Interesses
 
