@@ -6,10 +6,10 @@
 
 ## 🌟 Sobre Mim
 
-- 📚 Transformando café ☕ em código desde 2022
-- 🔍 Sempre buscando aprender novas tecnologias e desafios
-- 🧩 Amante de resolver problemas complexos
-- 🤝 Acredito no poder da colaboração e compartilhamento de conhecimento
+- 📚 Transformando café ☕ em código desde 2022  
+- 🔍 Sempre buscando aprender novas tecnologias e desafios  
+- 🧩 Amante de resolver problemas complexos  
+- 🤝 Acredito no poder da colaboração e compartilhamento de conhecimento  
 
 ## 🛠️ Tecnologias & Habilidades
 
@@ -26,6 +26,10 @@
 
 ### 🗃️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🎨 Design & Prototipagem
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -33,23 +37,23 @@
 
 ## 📚 Atualmente Aprendendo
 
-- Arquitetura de Software
-- Cloud Computing (AWS/GCP)
-- DevOps Practices
-- Microsserviços
+- Arquitetura de Software  
+- Cloud Computing (AWS/GCP)  
+- DevOps Practices  
+- Microsserviços  
 
 ## 🎮 Hobbies & Interesses
 
-- 🌳 Atividades ao ar livre
-- ⚽ Praticar esportes (Futebol, Basquete)
-- 💻 Programar projetos pessoais
-- 🎮 Jogos eletrônicos
-- 📚 Leitura sobre tecnologia e inovação
+- 🌳 Atividades ao ar livre  
+- ⚽ Praticar esportes (Futebol, Basquete)  
+- 💻 Programar projetos pessoais  
+- 🎮 Jogos eletrônicos  
+- 📚 Leitura sobre tecnologia e inovação  
 
 ## 📫 Como me encontrar
 
-[![Email](https://img.shields.io/badge/Email-souzajuan18@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzajuan18@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Desiderio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-desiderio-de-souza-4b5641369/)
+[![Email](https://img.shields.io/badge/Email-souzajuan18@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzajuan18@icloud.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Desiderio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-desiderio-de-souza-4b5641369/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@juan.souza7_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan.souza7_)
 
-⭐ "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
+⭐ *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* — **Robert Collier**
