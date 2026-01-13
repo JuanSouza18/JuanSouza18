@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Juan Desiderio de Souza
 
-🎓 Estudante de Engenharia de Software na PUC Campinas  
+🎓 Estudante de Sistema da Informação na PUC Campinas  
 💻 Apaixonado por tecnologia, desenvolvimento e inovação  
 🚀 Focado em Backend, Web Development e Soluções Criativas  
 
