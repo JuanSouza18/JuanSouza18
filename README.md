@@ -1,22 +1,36 @@
 # Juan Desiderio de Souza
 
 Estudante de Sistemas de Informação — PUC Campinas  
-Interesse em Backend, Desenvolvimento Web e Arquitetura de Software
+
+Focado em evolução constante, aprendizado prático e construção de projetos reais.
 
 ---
 
-## Sobre
+## Sobre mim
 
-Sou estudante de Sistemas de Informação com foco em desenvolvimento de software. Tenho interesse na construção de soluções escaláveis, aplicação de boas práticas e organização de código. Busco evoluir constantemente por meio de projetos práticos e desafios técnicos.
+Atualmente curso Sistemas de Informação na PUC Campinas e busco me desenvolver além da faculdade, estudando por conta própria, criando projetos e aprofundando conhecimentos diariamente.
+
+Tenho grande interesse em **Backend**, APIs, bancos de dados, arquitetura de software e desenvolvimento de sistemas bem estruturados. Gosto de entender como as aplicações funcionam por trás dos bastidores e buscar soluções eficientes para problemas reais.
+
+Estou sempre em busca de novos desafios para crescer como desenvolvedor.
 
 ---
 
-## Atualmente Estudando
+## Tecnologias e Interesses
 
+- Backend Development  
+- APIs REST  
+- JavaScript / Node.js  
+- Banco de Dados SQL e NoSQL  
+- Git e GitHub  
 - Arquitetura de Software  
-- Cloud Computing  
-- DevOps  
-- Microsserviços  
+- Desenvolvimento Web  
+
+---
+
+## Objetivo
+
+Construir uma base sólida como desenvolvedor backend, evoluindo através de estudos consistentes, projetos práticos e experiência no mercado.
 
 ---
 
