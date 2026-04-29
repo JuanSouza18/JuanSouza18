@@ -1,6 +1,6 @@
 # Juan Desiderio de Souza
 
-Estudante de Sistemas de Informação — PUC Campinas  
+Estudante de Sistemas de Informação — PUC Campinas
 
 Focado em evolução constante, aprendizado prático e construção de projetos reais.
 
@@ -10,31 +10,53 @@ Focado em evolução constante, aprendizado prático e construção de projetos 
 
 Atualmente curso Sistemas de Informação na PUC Campinas e busco me desenvolver além da faculdade, estudando por conta própria, criando projetos e aprofundando conhecimentos diariamente.
 
-Tenho grande interesse em **Backend**, APIs, bancos de dados, arquitetura de software e desenvolvimento de sistemas bem estruturados. Gosto de entender como as aplicações funcionam por trás dos bastidores e buscar soluções eficientes para problemas reais.
+Tenho grande interesse em **Desenvolvimento Full Stack**, atuando tanto no **Front-end** quanto no **Back-end**, criando aplicações completas e escaláveis. Gosto de participar de todas as etapas de um projeto, desde a criação de interfaces modernas e intuitivas até a construção de APIs, bancos de dados e regras de negócio.
 
-Estou sempre em busca de novos desafios para crescer como desenvolvedor.
+Além do desenvolvimento, também valorizo processos como **levantamento de requisitos**, organização de projetos, estruturação de softwares e documentação técnica, entendendo que um bom sistema vai além do código.
+
+Busco sempre aprender novas tecnologias e evoluir como profissional completo na área de tecnologia.
 
 ---
 
-## Tecnologias e Interesses
+## Tecnologias e Competências
 
-- Backend Development  
-- APIs REST  
-- JavaScript / Node.js  
-- Banco de Dados SQL e NoSQL  
-- Git e GitHub  
-- Arquitetura de Software  
-- Desenvolvimento Web  
+### Front-end
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* React Native
+
+### Back-end e Programação
+
+* Node.js
+* C
+* Python
+
+### Banco de Dados
+
+* MySQL
+* MongoDB
+
+### Engenharia de Software
+
+* Levantamento de Requisitos
+* Estruturação de Softwares
+* Documentação Técnica
+* Versionamento com Git e GitHub
+* Desenvolvimento Web e Mobile
 
 ---
 
 ## Objetivo
 
-Construir uma base sólida como desenvolvedor backend, evoluindo através de estudos consistentes, projetos práticos e experiência no mercado.
+Construir uma carreira sólida como desenvolvedor **Full Stack**, atuando tanto no front-end quanto no back-end, criando soluções modernas, eficientes e bem estruturadas, sempre evoluindo através de projetos práticos e experiência de mercado.
 
 ---
 
 ## Contato
 
-- Email: souzajuan18@icloud.com  
-- LinkedIn: https://linkedin.com/in/juan-desiderio-de-souza-4b5641369
+* Email: [souzajuan18@icloud.com](mailto:souzajuan18@icloud.com)
+* LinkedIn: [https://linkedin.com/in/juan-desiderio-de-souza-4b5641369](https://linkedin.com/in/juan-desiderio-de-souza-4b5641369)
