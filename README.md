@@ -2,8 +2,6 @@
 
 Estudante de Sistemas de Informação — PUC Campinas
 
-Focado em evolução constante, aprendizado prático e construção de projetos reais.
-
 ---
 
 ## Sobre mim
