@@ -35,8 +35,14 @@ Busco sempre aprender novas tecnologias e evoluir como profissional completo na 
 
 ### Banco de Dados
 
-* MySQL
-* MongoDB
+·	MySQL
+·	MongoDB
+·	Neo4J
+·	Redis
+·	Apache Cassandra
+·	Amazon DynamoDB
+·	Apache Superset
+
 
 ### Engenharia de Software
 
