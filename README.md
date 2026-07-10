@@ -34,8 +34,8 @@ Busco sempre aprender novas tecnologias e evoluir como profissional completo na 
 * Python
 
 ### Programação Mobile
-*Dart
-*Flutter
+* Dart
+* Flutter
 
 ### Banco de Dados
 
