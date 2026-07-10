@@ -25,7 +25,6 @@ Busco sempre aprender novas tecnologias e evoluir como profissional completo na 
 * JavaScript
 * TypeScript
 * React
-* React Native
 
 ### Back-end e Programação
 
@@ -36,6 +35,7 @@ Busco sempre aprender novas tecnologias e evoluir como profissional completo na 
 ### Programação Mobile
 * Dart
 * Flutter
+* React Native
 
 ### Banco de Dados
 
