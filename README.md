@@ -33,6 +33,10 @@ Busco sempre aprender novas tecnologias e evoluir como profissional completo na 
 * C
 * Python
 
+### Programação Mobile
+*Dart
+*Flutter
+
 ### Banco de Dados
 
 *	MySQL
