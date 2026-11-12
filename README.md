@@ -61,22 +61,7 @@ Atualmente curso **Sistemas de Informação na PUC Campinas** e busco me desenvo
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-> ⚠️ Troque `SEU-USUARIO` pelo seu nome de usuário do GitHub nos links abaixo.
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d1117" alt="Sequência de contribuições" />
-
-</div>
-
----
 
 ## 🎯 Objetivo
 
