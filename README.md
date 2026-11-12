@@ -16,7 +16,7 @@
 
 ---
 
-## 💜 Sobre mim
+##  Sobre mim
 
 Atualmente curso **Sistemas de Informação na PUC Campinas** e busco me desenvolver além da faculdade, estudando por conta própria, criando projetos e aprofundando conhecimentos diariamente.
 
