@@ -1,7 +1,7 @@
 <!-- ========== CABEÇALHO ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00cc,100:3333ff&height=200&section=header&text=JUAN%20DESIDERIO&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o%20%2F%3E&descSize=20&descAlignY=65" width="100%" alt="Cabeçalho" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=JUAN%20DESIDERIO&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=60" width="100%" alt="Cabeçalho" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&width=650&height=45&lines=%24+whoami+%E2%86%92+Juan+Desiderio+de+Souza;%24+cat+curso.txt+%E2%86%92+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+PUC+Campinas;%24+echo+%24FOCO+%E2%86%92+Front-end+%2B+Back-end+%2B+Mobile;%24+git+commit+-m+%22evoluindo+todos+os+dias%22" alt="Terminal animado" />
 
@@ -35,16 +35,27 @@ Estudo por conta própria, crio projetos e aprofundo meus conhecimentos diariame
 
 <div align="center">
 
-| 🎨 **Front-end** | ⚙️ **Back-end** | 📱 **Mobile** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5" /> | <img src="https://skillicons.dev/icons?i=nodejs,c,py&perline=3" /> | <img src="https://skillicons.dev/icons?i=dart,flutter,react&perline=3" /> |
+**🎨 Front-end**
 
-| 🗄️ **Bancos de Dados** | 🧱 **Ferramentas** |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j,redis,cassandra,dynamodb&perline=6" /> | <img src="https://skillicons.dev/icons?i=git,github&perline=2" /> |
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Front-end" />
 
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apache&logoColor=white" />
+**⚙️ Back-end e Programação**
+
+<img src="https://skillicons.dev/icons?i=nodejs,c,py" alt="Back-end" />
+
+**📱 Mobile**
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,react" alt="Mobile" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+
+**🗄️ Bancos de Dados**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j,redis,cassandra,dynamodb" alt="Bancos de dados" />
+<img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apache&logoColor=white" alt="Apache Superset" />
+
+**🧱 Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github" alt="Git e GitHub" />
 
 </div>
 
@@ -73,7 +84,7 @@ Estudo por conta própria, crio projetos e aprofundo meus conhecimentos diariame
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff00cc&line=3333ff&point=ffffff" width="95%" alt="Gráfico de atividade" />
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical&hide_border=true&background=0d1117" alt="Sequência de contribuições" />
 
 </div>
 
